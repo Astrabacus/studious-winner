@@ -12,9 +12,6 @@ Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this a
 <details open>
 <summary>My top THINGS-TO-RANK</summary>
 
-
-My TABLE
-
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
