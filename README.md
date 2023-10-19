@@ -9,6 +9,11 @@ Hi there 👋
 
 Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this are my Art names. Astrabacus is my Artist name for Progressive Psy Trance. Skeleton is my Artist Name for Progressive House Music.
 
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
+My TABLE
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
@@ -24,3 +29,4 @@ Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this a
 |    11| Joson     |
 |    12| Kotlin    |
 |    13| HTML      |
+</details>
