@@ -7,24 +7,30 @@ Hi there 👋
 
 ## About me
 
+<!-- TO DO: More Informations and my Worke's for preferences soon -->
+
 Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this are my Art names. Astrabacus is my Artist name for Progressive Psy Trance. Skeleton is my Artist Name for Progressive House Music.
 
 <details open>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My top Languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
 |     1| Javascript|
 |     2| Python    |
 |     3| SQL       |
-|     4| AI        |
+|     4| PHP       |
 |     5| React     |
 |     6| C#        |
 |     7| C++       |
 |     8| Rust      |
 |     9| CSS       |
 |    10| YAML      |
-|    11| Joson     |
+|    11| Json      |
 |    12| Kotlin    |
 |    13| HTML      |
 </details>
+---
+>  Github Usercontingent.
+
+— Astrabacus the Time Travaller FRL subscribe by Worldwide
