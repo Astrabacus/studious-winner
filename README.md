@@ -9,9 +9,12 @@ Hi there 👋
 
 <!-- TO DO: More Informations and my Worke's for preferences soon -->
 
-Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this are my Art names. Astrabacus is my Artist name for Progressive Psy Trance. Skeleton is my Artist Name for Progressive House Music.
+Wizzerd or Skeleton MT its Technical Generic Destany and build with Scource Code, fore Progressive Psy 
+Trance Music or Progressive House and Techno Working's License Controlling bei EBU
 
+I'm Delveloper and Audio Engineer this are my Art names. Astrabacus is my Artist name for Progressive Psy Trance. Skeleton is my Artist Name for Progressive House Music.
 <details open>
+  
 <summary>My top Languages</summary>
 
 | Rank | Languages |
@@ -33,6 +36,6 @@ Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this a
 ---
 >  Github Usercontingent.
 
-—  Wizzerd Time Riders Free R Licenses subscribe by Worldwide K.
+—  Wizzerd Time Riders come's with Free R Licenses subscribe by Worldwide K. Fore Justice in Technology and Space.
 
 - https://github.com/Astrabacus/studious-winner
