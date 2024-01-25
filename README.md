@@ -33,4 +33,6 @@ Hi I'm Dani aka Astrabacus or Skeleton. I'm Delveloper and Audio Engineer this a
 ---
 >  Github Usercontingent.
 
-— Astrabacus the Time Travaller FRL subscribe by Worldwide
+—  Wizzerd Time Riders Free R Licenses subscribe by Worldwide K.
+
+- https://github.com/Astrabacus/studious-winner
